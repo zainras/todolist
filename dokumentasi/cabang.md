@@ -1,2 +1,2 @@
 # cabang dari main.md
-[ini link](dokumentasi/main.md)
+[ini link](/main.md)
